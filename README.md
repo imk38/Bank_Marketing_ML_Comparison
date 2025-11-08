@@ -1,4 +1,4 @@
-Here I am building different supervised machine learning models to predict whether or not a customer will subscribe to a term deposit.I got the data from UCI.
+Here I am building different supervised machine learning models to predict whether or not a customer will subscribe to a term deposit.I got the data from UCI/a different github source.
 
 I divided the project into two parts, tree based models like light gbm, random forest, and XG boost. As well as non tree based models like knn, logistic regression, and support vector machine.
 
